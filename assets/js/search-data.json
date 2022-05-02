@@ -28,8 +28,8 @@
 
   
       ,"page1": {
-          "title": "CV",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "title": "",
+          "content": "Education . . Bachelor&#39;s Degree in Electronic Engineering and Industrial Informatics | September/2018 - August/2020 | . Institut National des Sciences Appliquées de Rennes, Rennes, France | GPA: 17.26/20.00 | . Thesis Title: Optimal Transport for Domain Adaptation with Applications to Bacteria Stain Classification Advisor: Fred-Maurice Ngolè Mboula . Bachelor&#39;s Degree in Computer Engineering | January/2015 - April/2021 | . Universidade Federal do Ceará, Fortaleza, Brazil | GPA: 8.95/10.00 | . Thesis Title: Cross-Domain Fault Diagnosis through Optimal Transport Advisor: Michela Mulas . Professional Experience . . Dell Lead, Fortaleza, Brazil . Scientific Researcher in Data Mining | April 2021 - Present | . Responsible for mining textual data and creating data visualizations. . Comissariat pour l’Énergie Atomique et aux Énergies Alternatives, Giff-Sur-Yvette, France . Research Intern in Artificial Intelligence | March 2020 - August 2020 | . During this internship I was in charge of implementing Optimal Transport for Domain Adaptation methods for a problem involving transfer learning on the classification of bacteria cell stain. Supervisor: Fred-Maurice Ngolè Mboula . Institut d’Electronique et des Technologies du Numérique, groupe VAADER, Rennes, France . Research Intern in Deep Learning | March 2020 - August 2020 | . During this internship I was responsible for implementing a benchmark for comparing image denoising methods. A special focus was given to deep neural network methods. The benchmark is Open Source, and its code is hosted on Github Supervisor: Florian Lemarchand . Programming Skills . . Programming Languages . Python, Matlab (+++) C++/C (++) Javascript, VHDL (+) . Toolboxes and Libraries . Python: Tensorflow (+++), Python Optimal Transport (+++), Pytorch (++) Matlab: Simulink (++), Deep Learning Toolbos (++) . Other Software . Others: Tableau, Latex, HTML . Languages . . Portuguese (Mother Tongue) English (B2/Advanced) French (B2/Advanced) . Publications . . Lemarchand, F., Montesuma, E. F., Pelcat, M., &amp; Nogues, E. (2020, May). OpenDenoising: an Extensible Benchmark for Building Comparative Studies of Image Denoisers. In ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 2648-2652). IEEE. [Bibtex] [Arxiv] [Code] | Montesuma, Eduardo F., Levi PSA Alencar, and Guilherme A. Barreto. Avaliação de Algoritmos de Classificação de Padrões na Detecção de Câncer do Colo do Útero. [Bibtex] [Paper] | Montesuma, E. F., &amp; Mboula, F. M. N. (2021, June). Wasserstein Barycenter Transport for Acoustic Adaptation. In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3405-3409). [IEEE Explore] [Code] | Montesuma, E., &amp; Mboula, F. (2021). Wasserstein Barycenter for Multi-Source Domain Adaptation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (pp. 16785-16793). [The CVF Open Access] [Paper] [Supplementary] [Code] | Scholarships and Awards . . From September/2018 to Ferbuary/2020 I had the opportunity to have my double degree studies in France funded by Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), with a BRAFITEC Scolarship .",
           "url": "https://eddardd.github.io/my-personal-blog/cv/",
           "relUrl": "/cv/",
           "date": ""
@@ -40,26 +40,48 @@
   
 
   
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
+      ,"page3": {
+          "title": "Publications",
+          "content": "A summary of my recent work is available at Google Scholar. . Thesis . 2021 . Montesuma, E. F. (2021, April). Cross-Domain Fault Diagnosis through Optimal Transport [Bachelor Thesis, Universidade Federal do Ceará]. [Research Gate] [Code] [Bibtex] . Conference Papers . 2021 . Montesuma, E. F., &amp; Mboula, F. M. N. (2021, June). Wasserstein Barycenter Transport for Acoustic Adaptation. In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3405-3409). [IEEE Explore] [Code] [Bibtex] . Montesuma, E., &amp; Mboula, F. (2021). Wasserstein Barycenter for Multi-Source Domain Adaptation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (pp. 16785-16793). [The CVF Open Access] [Paper] [Supplementary] [Code] [Bibtex] . 2020 . Lemarchand, F., Montesuma, E. F., Pelcat, M., &amp; Nogues, E. (2020, May). OpenDenoising: an Extensible Benchmark for Building Comparative Studies of Image Denoisers. In ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 2648-2652). IEEE. [Arxiv] [Code] [Bibtex] . 2017 . Montesuma, E., Alencar, L., &amp; Barreto, G. (2017). Avaliação de Algoritmos de Classificação de Padrões na Detecção de Câncer do Colo do Útero. In VIII Simpósio de Instrumentação e Imagens Médicas (SIIM) / VII Simpósio de Processamento de Sinais (SPS). [Paper] [Bibtex] .",
+          "url": "https://eddardd.github.io/my-personal-blog/publications/",
+          "relUrl": "/publications/",
+          "date": ""
+      }
+      
   
 
   
   
 
   
-      ,"page10": {
+
+  
+  
+
+  
+
+  
+      ,"page8": {
+          "title": "Talks and presentations",
+          "content": "Lecture on Introductory Optimal Transport for Machine Learning (05/03/2020) . A link to the presentation slides may be found here. The code used for the figures and examples can be found here . Semana da Tecnologia da Informação e Comunicação 2020 (02/12/2020 and 03/12/2020) . Crash course on Deep Learning using Tensorflow (Portuguese) [Presentation] . Session 1: [Talk] [Practical Work] | Session 2: [Talk] [Practical Work] |",
+          "url": "https://eddardd.github.io/my-personal-blog/talks/",
+          "relUrl": "/talks/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://eddardd.github.io/my-personal-blog/robots.txt",
