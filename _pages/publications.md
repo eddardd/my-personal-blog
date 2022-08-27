@@ -19,9 +19,9 @@ Montesuma, E. F. (2021, April). __Cross-Domain Fault Diagnosis through Optimal T
 
 ### 2022
 
-<div style="float: left; margin: 30px 12px 3px 4px; border: 2px solid blue; ">
+<div style="float: left; margin: 30px 12px 3px 4px; ">
 <img src=    
-"../files/cstr.png" height="100" width="100"  
+"../files/cstr.png" height="auto" width="300"  
 alt="image">
 </div>
 <p>
