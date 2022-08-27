@@ -17,6 +17,11 @@ Montesuma, E. F. (2021, April). __Cross-Domain Fault Diagnosis through Optimal T
 
 ## Conference Papers
 
+### 2022
+
+Montesuma, E. F., Mulas, M., Corona, F., & Mboula, F. M. N. (2022). Cross-domain fault diagnosis through optimal transport for a CSTR process. IFAC-PapersOnLine, 55(7), 946-951.\
+[[Science Direct]](https://www.sciencedirect.com/science/article/pii/S2405896322009727) [[Code]](https://github.com/eddardd/CrossDomainFaultDiagnosis) [[Bibtex]](https://raw.githubusercontent.com/eddardd/my-personal-blog/master/files/papers/montesuma2022cdfd.bibtex)
+
 ### 2021
 
 Montesuma, E. F., & Mboula, F. M. N. (2021, June). __Wasserstein Barycenter Transport for Acoustic Adaptation__. In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3405-3409).\
