@@ -23,7 +23,7 @@ Montesuma, E. F. (2021, April). __Cross-Domain Fault Diagnosis through Optimal T
 <tr>
     <td>
         <img src=    
-        "../files/cstr.png" height="auto" width="300"  
+        "../files/cstr.png" height="auto" width="500"  
         alt="image">
     </td>
     <td>  
@@ -42,7 +42,7 @@ Montesuma, E. F. (2021, April). __Cross-Domain Fault Diagnosis through Optimal T
 <tr>
     <td>
         <img src=    
-        "../files/wbt1.png" height="auto" width="300"  
+        "../files/wbt.png" height="auto" width="500"  
         alt="image">
     </td>
     <td>  
@@ -59,7 +59,7 @@ Montesuma, E. F. (2021, April). __Cross-Domain Fault Diagnosis through Optimal T
 <tr>
     <td>
         <img src=    
-        "../files/wbt2.png" height="auto" width="300"  
+        "../files/wbt2.png" height="auto" width="500"  
         alt="image">
     </td>
     <td>  
