@@ -74,8 +74,23 @@ Montesuma, E. F. (2021, April). __Cross-Domain Fault Diagnosis through Optimal T
 
 ### 2020
 
-Lemarchand, F., Montesuma, E. F., Pelcat, M., & Nogues, E. (2020, May). __OpenDenoising: an Extensible Benchmark for Building Comparative Studies of Image Denoisers__. In ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 2648-2652). IEEE.\
-[[Arxiv]](https://arxiv.org/pdf/1910.08328.pdf) [[Code]](https://github.com/opendenoising/opendenoising-benchmark) [[Bibtex]](https://eddardd.github.io/files/Papers/opendenoising.bibtex)
+
+<table cellspacing="10">
+<tr>
+    <td>
+        <img src=    
+        "../files/opendenoising.png" height="auto" width="500"  
+        alt="image">
+    </td>
+    <td>  
+        <p>
+            Lemarchand, F., Montesuma, E. F., Pelcat, M., & Nogues, E. (2020, May). <b>OpenDenoising: an Extensible Benchmark for Building Comparative Studies of Image Denoisers</b>. In ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 2648-2652). IEEE.
+            <br>
+            <a href="(https://arxiv.org/pdf/1910.08328.pdf)">[Paper]</a> <a href="https://github.com/opendenoising/opendenoising-benchmark">[Code]</a> <a href="https://eddardd.github.io/files/Papers/opendenoising.bibtex">[Bibtex]</a>
+        </p>
+    </td>
+</tr>
+</table>
 
 ### 2017
 
