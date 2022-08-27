@@ -30,6 +30,8 @@ Montesuma, E. F., Mulas, M., Corona, F., & Mboula, F. M. N. (2022). Cross-domain
 <a href="(https://www.sciencedirect.com/science/article/pii/S2405896322009727)">[Science Direct]</a> <a href="https://github.com/eddardd/CrossDomainFaultDiagnosis">[Code]</a> <a href="https://raw.githubusercontent.com/eddardd/my-personal-blog/master/files/papers/montesuma2022cdfd.bibtex">[Bibtex]</a>
 </p>
 
+<br>
+
 ### 2021
 
 Montesuma, E. F., & Mboula, F. M. N. (2021, June). __Wasserstein Barycenter Transport for Acoustic Adaptation__. In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3405-3409).\
