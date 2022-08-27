@@ -19,32 +19,58 @@ Montesuma, E. F. (2021, April). __Cross-Domain Fault Diagnosis through Optimal T
 
 ### 2022
 
-  <table cellspacing="10">
-    <tr>
-      <td>
-<img src=    
-"../files/cstr.png" height="auto" width="300"  
-alt="image">
-      </td>
-      <td>
-          
-<p>
-Montesuma, E. F., Mulas, M., Corona, F., & Mboula, F. M. N. (2022). <b>Cross-domain fault diagnosis through optimal transport for a CSTR process</b>. IFAC-PapersOnLine, 55(7), 946-951.
-<br>
-<a href="(https://www.sciencedirect.com/science/article/pii/S2405896322009727)">[Science Direct]</a> <a href="https://github.com/eddardd/CrossDomainFaultDiagnosis">[Code]</a> <a href="https://raw.githubusercontent.com/eddardd/my-personal-blog/master/files/papers/montesuma2022cdfd.bibtex">[Bibtex]</a>
-</p>
-  
-      </td>
-    </tr>
-  </table>
+<table cellspacing="10">
+<tr>
+    <td>
+        <img src=    
+        "../files/cstr.png" height="auto" width="300"  
+        alt="image">
+    </td>
+    <td>  
+        <p>
+            Montesuma, E. F., Mulas, M., Corona, F., & Mboula, F. M. N. (2022). <b>Cross-domain fault diagnosis through optimal transport for a CSTR process</b>. IFAC-PapersOnLine, 55(7), 946-951.
+            <br>
+            <a href="(https://www.sciencedirect.com/science/article/pii/S2405896322009727)">[Science Direct]</a> <a href="https://github.com/eddardd/CrossDomainFaultDiagnosis">[Code]</a> <a href="https://raw.githubusercontent.com/eddardd/my-personal-blog/master/files/papers/montesuma2022cdfd.bibtex">[Bibtex]</a>
+        </p>
+    </td>
+</tr>
+</table>
 
 ### 2021
 
-Montesuma, E. F., & Mboula, F. M. N. (2021, June). __Wasserstein Barycenter Transport for Acoustic Adaptation__. In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3405-3409).\
-[[IEEE Explore]](https://ieeexplore.ieee.org/document/9414199) [[Code]](https://github.com/eddardd/WBTransport) [[Bibtex]](https://eddardd.github.io/files/Papers/wbt2021icassp.bibtex)
+<table cellspacing="10">
+<tr>
+    <td>
+        <img src=    
+        "../files/wbt1.png" height="auto" width="300"  
+        alt="image">
+    </td>
+    <td>  
+        <p>
+            Montesuma, E. F., & Mboula, F. M. N. (2021, June). <b>Wasserstein Barycenter Transport for Acoustic Adaptation</b>. In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3405-3409).
+            <br>
+            <a href="(https://ieeexplore.ieee.org/document/9414199)">[IEEE Explore]</a> <a href="https://github.com/eddardd/WBTransport">[Code]</a> <a href="https://raw.githubusercontent.com/eddardd/eddardd.github.io/master/files/papers/wbt2021icassp.bibtex">[Bibtex]</a>
+        </p>
+    </td>
+</tr>
+</table>
 
-Montesuma, E., & Mboula, F. (2021). __Wasserstein Barycenter for Multi-Source Domain Adaptation__. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (pp. 16785-16793).\
-[[The CVF Open Access]](https://openaccess.thecvf.com/content/CVPR2021/html/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.html) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf) [[Supplementary]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Montesuma_Wasserstein_Barycenter_for_CVPR_2021_supplemental.pdf) [[Code]](https://github.com/eddardd/WBTransport) [[Bibtex]](https://eddardd.github.io/files/Papers/wbt2021cvpr.bibtex)
+<table cellspacing="10">
+<tr>
+    <td>
+        <img src=    
+        "../files/wbt2.png" height="auto" width="300"  
+        alt="image">
+    </td>
+    <td>  
+        <p>
+            Montesuma, E., & Mboula, F. (2021). <b>Wasserstein Barycenter for Multi-Source Domain Adaptation</b>. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (pp. 16785-16793).
+            <br>
+            <a href="(https://openaccess.thecvf.com/content/CVPR2021/papers/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf)">[Paper]</a> <a href="https://github.com/eddardd/WBTransport">[Code]</a> <a href="https://raw.githubusercontent.com/eddardd/eddardd.github.io/master/files/papers/wbt2021cvpr.bibtex">[Bibtex]</a>
+        </p>
+    </td>
+</tr>
+</table>
 
 ### 2020
 
