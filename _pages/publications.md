@@ -16,7 +16,7 @@ A summary of my recent work is available at [Google Scholar](https://scholar.goo
 <tr>
     <td>
         <img src=    
-        "../files/cdfd_ot.png" height="auto" width="100pt"  
+        "../files/cdfd_ot.png" height="auto" width="200pt"  
         alt="image">
     </td>
     <td>  
@@ -37,7 +37,7 @@ A summary of my recent work is available at [Google Scholar](https://scholar.goo
 <tr>
     <td>
         <img src=    
-        "../files/cstr.png" height="auto" width="100pt"  
+        "../files/cstr.png" height="auto" width="200pt"  
         alt="image">
     </td>
     <td>  
@@ -56,7 +56,7 @@ A summary of my recent work is available at [Google Scholar](https://scholar.goo
 <tr>
     <td>
         <img src=    
-        "../files/wbt.png" height="auto" width="100pt"  
+        "../files/wbt.png" height="auto" width="200pt"  
         alt="image">
     </td>
     <td>  
@@ -73,7 +73,7 @@ A summary of my recent work is available at [Google Scholar](https://scholar.goo
 <tr>
     <td>
         <img src=    
-        "../files/wbt2.png" height="auto" width="100pt"  
+        "../files/wbt2.png" height="auto" width="200pt"  
         alt="image">
     </td>
     <td>  
@@ -93,7 +93,7 @@ A summary of my recent work is available at [Google Scholar](https://scholar.goo
 <tr>
     <td>
         <img src=    
-        "../files/opendenoising.png" height="auto" width="100pt"  
+        "../files/opendenoising.png" height="auto" width="200pt"  
         alt="image">
     </td>
     <td>  
