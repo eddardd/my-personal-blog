@@ -30,7 +30,7 @@ Montesuma, E. F. (2021, April). __Cross-Domain Fault Diagnosis through Optimal T
         <p>
             Montesuma, E. F., Mulas, M., Corona, F., & Mboula, F. M. N. (2022). <b>Cross-domain fault diagnosis through optimal transport for a CSTR process</b>. IFAC-PapersOnLine, 55(7), 946-951.
             <br>
-            <a href="(https://www.sciencedirect.com/science/article/pii/S2405896322009727)">[Science Direct]</a> <a href="https://github.com/eddardd/CrossDomainFaultDiagnosis">[Code]</a> <a href="https://raw.githubusercontent.com/eddardd/my-personal-blog/master/files/papers/montesuma2022cdfd.bibtex">[Bibtex]</a>
+            <a href="https://www.sciencedirect.com/science/article/pii/S2405896322009727">[Science Direct]</a> <a href="https://github.com/eddardd/CrossDomainFaultDiagnosis">[Code]</a> <a href="https://raw.githubusercontent.com/eddardd/my-personal-blog/master/files/papers/montesuma2022cdfd.bibtex">[Bibtex]</a>
         </p>
     </td>
 </tr>
@@ -49,7 +49,7 @@ Montesuma, E. F. (2021, April). __Cross-Domain Fault Diagnosis through Optimal T
         <p>
             Montesuma, E. F., & Mboula, F. M. N. (2021, June). <b>Wasserstein Barycenter Transport for Acoustic Adaptation</b>. In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3405-3409).
             <br>
-            <a href="(https://ieeexplore.ieee.org/document/9414199)">[IEEE Explore]</a> <a href="https://github.com/eddardd/WBTransport">[Code]</a> <a href="https://raw.githubusercontent.com/eddardd/eddardd.github.io/master/files/papers/wbt2021icassp.bibtex">[Bibtex]</a>
+            <a href="https://ieeexplore.ieee.org/document/9414199">[IEEE Explore]</a> <a href="https://github.com/eddardd/WBTransport">[Code]</a> <a href="https://raw.githubusercontent.com/eddardd/eddardd.github.io/master/files/papers/wbt2021icassp.bibtex">[Bibtex]</a>
         </p>
     </td>
 </tr>
@@ -66,7 +66,7 @@ Montesuma, E. F. (2021, April). __Cross-Domain Fault Diagnosis through Optimal T
         <p>
             Montesuma, E., & Mboula, F. (2021). <b>Wasserstein Barycenter for Multi-Source Domain Adaptation</b>. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (pp. 16785-16793).
             <br>
-            <a href="(https://openaccess.thecvf.com/content/CVPR2021/papers/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf)">[Paper]</a> <a href="https://github.com/eddardd/WBTransport">[Code]</a> <a href="https://raw.githubusercontent.com/eddardd/eddardd.github.io/master/files/papers/wbt2021cvpr.bibtex">[Bibtex]</a>
+            <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf">[Paper]</a> <a href="https://github.com/eddardd/WBTransport">[Code]</a> <a href="https://raw.githubusercontent.com/eddardd/eddardd.github.io/master/files/papers/wbt2021cvpr.bibtex">[Bibtex]</a>
         </p>
     </td>
 </tr>
@@ -86,7 +86,7 @@ Montesuma, E. F. (2021, April). __Cross-Domain Fault Diagnosis through Optimal T
         <p>
             Lemarchand, F., Montesuma, E. F., Pelcat, M., & Nogues, E. (2020, May). <b>OpenDenoising: an Extensible Benchmark for Building Comparative Studies of Image Denoisers</b>. In ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 2648-2652). IEEE.
             <br>
-            <a href="(https://arxiv.org/pdf/1910.08328.pdf)">[Paper]</a> <a href="https://github.com/opendenoising/opendenoising-benchmark">[Code]</a> <a href="https://eddardd.github.io/files/Papers/opendenoising.bibtex">[Bibtex]</a>
+            <a href="https://arxiv.org/pdf/1910.08328.pdf">[Paper]</a> <a href="https://github.com/opendenoising/opendenoising-benchmark">[Code]</a> <a href="https://eddardd.github.io/files/Papers/opendenoising.bibtex">[Bibtex]</a>
         </p>
     </td>
 </tr>
