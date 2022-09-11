@@ -56,6 +56,23 @@ A summary of my recent work is available at [Google Scholar](https://scholar.goo
 <tr>
     <td style="width: 30%">
         <img src=    
+        "../files/info_retrieval.png" height="auto" width="200pt"  
+        alt="image">
+    </td>
+    <td style="width: 70%">  
+        <p>
+            Montesuma, Eduardo F., et al. <b>An Empirical Study of Information Retrieval and Machine Reading Comprehension Algorithms for an Online Education Platform</b>. Anais do XIII Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana. SBC, 2021.
+            <br>
+            <a href="https://sol.sbc.org.br/index.php/stil/article/view/17801/17635">[Paper]</a> <a href="https://eddardd.github.io/files/Papers/montesuma2021empirical.bibtex">[Bibtex]</a>
+        </p>
+    </td>
+</tr>
+</table>
+
+<table cellspacing="10">
+<tr>
+    <td style="width: 30%">
+        <img src=    
         "../files/wbt.png" height="auto" width="200pt"  
         alt="image">
     </td>
@@ -108,5 +125,19 @@ A summary of my recent work is available at [Google Scholar](https://scholar.goo
 
 ### 2017
 
-Montesuma, E., Alencar, L., & Barreto, G. (2017). __Avaliação de Algoritmos de Classificação de Padrões na Detecção de Câncer do Colo do Útero__. In VIII Simpósio de Instrumentação e Imagens Médicas (SIIM) / VII Simpósio de Processamento de Sinais (SPS).\
-[[Paper]](https://eventos.ufabc.edu.br/siimsps/files/id74.pdf) [[Bibtex]](https://eddardd.github.io/files/Papers/siscolo.bibtex)
+<table cellspacing="10">
+<tr>
+    <td style="width: 30%">
+        <img src=    
+        "../files/cancer_detection.png" height="auto" width="200pt"  
+        alt="image">
+    </td>
+    <td style="width: 70%">  
+        <p>
+            Montesuma, E., Alencar, L., & Barreto, G. (2017). <b>Avaliação de Algoritmos de Classificação de Padrões na Detecção de Câncer do Colo do Útero</b>. In VIII Simpósio de Instrumentação e Imagens Médicas (SIIM) / VII Simpósio de Processamento de Sinais (SPS).
+            <br>
+            <a href="https://eventos.ufabc.edu.br/siimsps/files/id74.pdf">[Paper]</a> <a href="https://eddardd.github.io/files/Papers/siscolo.bibtex">[Bibtex]</a>
+        </p>
+    </td>
+</tr>
+</table>
