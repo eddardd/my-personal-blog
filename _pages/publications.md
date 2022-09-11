@@ -14,12 +14,12 @@ A summary of my recent work is available at [Google Scholar](https://scholar.goo
 
 <table cellspacing="10">
 <tr>
-    <td>
+    <td style="width: 30%">
         <img src=    
         "../files/cdfd_ot.png" height="auto" width="200pt"  
         alt="image">
     </td>
-    <td>  
+    <td style="width: 70%">  
         <p>
             Montesuma, E. F. (2021, April). <b>Cross-Domain Fault Diagnosis through Optimal Transport</b> Bachelor Thesis, <a href="https://www.ufc.br/">Universidade Federal do Ceará</a>.
             <br>
@@ -35,12 +35,12 @@ A summary of my recent work is available at [Google Scholar](https://scholar.goo
 
 <table cellspacing="10">
 <tr>
-    <td>
+    <td style="width: 30%">
         <img src=    
         "../files/cstr.png" height="auto" width="200pt"  
         alt="image">
     </td>
-    <td>  
+    <td style="width: 70%">  
         <p>
             Montesuma, E. F., Mulas, M., Corona, F., & Mboula, F. M. N. (2022). <b>Cross-domain fault diagnosis through optimal transport for a CSTR process</b>. IFAC-PapersOnLine, 55(7), 946-951.
             <br>
@@ -54,12 +54,12 @@ A summary of my recent work is available at [Google Scholar](https://scholar.goo
 
 <table cellspacing="10">
 <tr>
-    <td>
+    <td style="width: 30%">
         <img src=    
         "../files/wbt.png" height="auto" width="200pt"  
         alt="image">
     </td>
-    <td>  
+    <td style="width: 70%">  
         <p>
             Montesuma, E. F., & Mboula, F. M. N. (2021, June). <b>Wasserstein Barycenter Transport for Acoustic Adaptation</b>. In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3405-3409).
             <br>
@@ -71,12 +71,12 @@ A summary of my recent work is available at [Google Scholar](https://scholar.goo
 
 <table cellspacing="10">
 <tr>
-    <td>
+    <td style="width: 30%">
         <img src=    
         "../files/wbt2.png" height="auto" width="200pt"  
         alt="image">
     </td>
-    <td>  
+    <td style="width: 70%">  
         <p>
             Montesuma, E., & Mboula, F. (2021). <b>Wasserstein Barycenter for Multi-Source Domain Adaptation</b>. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (pp. 16785-16793).
             <br>
@@ -91,12 +91,12 @@ A summary of my recent work is available at [Google Scholar](https://scholar.goo
 
 <table cellspacing="10">
 <tr>
-    <td>
+    <td style="width: 30%">
         <img src=    
         "../files/opendenoising.png" height="auto" width="200pt"  
         alt="image">
     </td>
-    <td>  
+    <td style="width: 70%">  
         <p>
             Lemarchand, F., Montesuma, E. F., Pelcat, M., & Nogues, E. (2020, May). <b>OpenDenoising: an Extensible Benchmark for Building Comparative Studies of Image Denoisers</b>. In ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 2648-2652). IEEE.
             <br>
